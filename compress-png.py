@@ -1,6 +1,6 @@
 import os
 
-base_path = '/Users/zeroum/Desktop/OPTIM/jacarelvis/image/iphone/interaction'
+base_path = '.'
 
 for dirname, dirnames, filenames in os.walk(base_path):
 
